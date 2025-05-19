@@ -24,7 +24,7 @@ A personal repo to track my daily problem-solving journey with a focus on arrays
 
 | Topic   | Problems Completed |
 |---------|--------------------|
-| Arrays  | 1                  |
+| Arrays  | 2                  |
 | Strings | 1                  |
 | Objects | 1                  |
 
